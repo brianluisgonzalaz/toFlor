@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1588628317 source:c:\users\broko\desktop\ejer\estructura\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+	"menus.h"
+
+1588628442 source:c:\users\broko\desktop\ejer\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumnos.h"
+	"menus.h"
+
+1588626286 c:\users\broko\desktop\ejer\estructura\alumnos.h
+
+1588626383 c:\users\broko\desktop\ejer\estructura\menus.h
+
+1588628429 source:c:\users\broko\desktop\ejer\estructura\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+	"menus.h"
+
